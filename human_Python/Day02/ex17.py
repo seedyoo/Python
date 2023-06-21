@@ -18,9 +18,9 @@ def func():
 func()          # 함수호출
 
 
-print('func() 내부 - a : {}'.format(a))
+# print('func() 내부 - a : {}'.format(a))
 # 에러 발생
-# ???
+# NameError: name 'a' is not defined
 
 b = 10          # 전역변수
 
@@ -28,4 +28,5 @@ def test():
     print('test() 내부 - b : {}'.format(b))
     
     
+test()          # 함수호출
 print('test() 외부 - b : {}'.format(b))
