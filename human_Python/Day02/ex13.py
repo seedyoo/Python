@@ -23,16 +23,19 @@ for item in enumerate(prog):
 # range(10) : 0 1 2 3 4 5 6 7 8 9
 for i in range(10):
     print(i, end=' ')
-    
+print()    
+
 
 # range(1, 11) : 1 2 3 4 5 6 7 8 9 10
 for i in range(1,11):
     print(i, end=' ')
+print()    
     
     
 # range(2, 21, 2) : 2 4 6 8 10 12 14 16 18 20
 for i in range(2,21,2):
     print(i, end=' ')
+print()    
 
 
 # len
