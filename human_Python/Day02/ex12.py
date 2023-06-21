@@ -20,6 +20,7 @@ print('#2')
 money = 10000
 price = 3000
 result = divmod(money, price)
+print(type(result))
 print('커피를 {}개 사고 {}원이 남았습니다'.format(result[0], result[1]))
 
 
