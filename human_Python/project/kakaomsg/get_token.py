@@ -22,7 +22,7 @@ print(req_url)
 
 
 # 인가코드
-auth_code = 'esfPNQmxDYqKDUy2uB1mFgaPtUAgraJDslQB30N60ma1SZ3dUQi0dxX8MVsrSK0Y3I8LtgoqJVMAAAGI4f0FEQ'
+auth_code = 'KTOmDgCZQm9hMLER0Nqf152oNAv7TvvriAknGVya7Ow_vTaCOGzT8z2Qlt7koMNEy3ZNFwoqJY8AAAGI4iKqnw'
 
 # 엑세스 토큰 받기
 url = 'https://kauth.kakao.com/oauth/token'
@@ -52,4 +52,4 @@ else:
     print(token)
 
 # access_token
-# 9YpuiUAShL7tIxF0O0Se-EhPtwYjZaJrJNaw3LtgCj11WgAAAYjh_qyt
+# 6a6iSsAi-YaIHaxY0XPOuT7T8kqZECbqXILSKzfmCj1ylwAAAYjiI5z6
