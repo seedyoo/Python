@@ -20,3 +20,7 @@ from converter import *
 # 150km --> miles 로 변환
 miles = kilometer_to_miles(150)
 print('150km = {} miles'.format(miles))
+
+# 1000g --> pound 로 변환
+pound = gram_to_pound(1000)
+print('1000g = {} pound'.format(pound))
