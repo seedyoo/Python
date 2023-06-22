@@ -13,13 +13,35 @@ headers = {
 
 # 요청 정보
 temp = {
-            "object_type": "text",
-            "text": input('메시지 : '),
-            "link": {
-                "web_url": "https://www.youtube.com",
-                "mobile_web_url": "https://www.youtube.com"
-            },
+            # "object_type": "text",
+            # "text": input('메시지 : '),
+            # "link": {
+            #     "web_url": "https://www.youtube.com",
+            #     "mobile_web_url": "https://www.youtube.com"
+            # },
             # "button_title": "바로 확인"
+            "object_type": "feed",
+            "content" : {
+                "title" : input("제목 : "),
+                "description" : input("내용 : "),
+                "image_url": input("img url : "),
+                "image_width": 640,
+                "image_height": 640,
+                'link' : { 
+                    "web_url" : 'https://youtube.com',          # PC 카톡의 URL
+                    "mobile_web_url" : 'https://youtube.com'    # 모바일 URL
+                }
+            },
+            "buttons" : [
+                {
+                    "title" : "바로 가기",
+                    'link' : { 
+                        "web_url" : 'https://youtube.com',          # PC 카톡의 URL
+                        "mobile_web_url" : 'https://youtube.com'    # 모바일 URL
+                    }
+                }
+            ]
+            
         }
 
 data = {
