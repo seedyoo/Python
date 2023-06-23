@@ -61,28 +61,37 @@ class AddressBook:
     def file_reader(self):
         
         # 예외 처리 
-        file = open('AddressBook.csv', 'rt', encoding='UTF-8')
+        try:
+            # 예외 발생가능성이 있는 코드
+            file = open('AddressBook.csv', 'rt', encoding='UTF-8')
+        except:
+            # 예외 발생 시, 예외 처리 코드
+            print('AddressBook.csv 파일이 없습니다')
+            self.file_generator()
+        else:
+            # 예외 미발생 시, 실행할 코드
+            while True:
+                buffer = file.readline()
+                if not buffer:
+                    break
+                
+                # 김휴먼,010-1234-1234,서울시 영등포구
+                name = buffer.split(',')[0]
+                phone = buffer.split(',')[1]
+                # rstrip(문자) : 지정한 문자를 문자열의 오른쪽에서 제거
+                # 서울시 영등포구\n  --> '\n' 제거 
+                addr = buffer.split(',')[2].rstrip('\n')
+                
+                # print('이름 : {}'.format(name))
+                # print('전화번호 : {}'.format(phone))
+                # print('주소 : {}'.format(addr))
+                
+                person = Person(name, phone, addr)
+                
+                # csv 파일의 연락처 목록을 address_list 리스트로 가져옴
+                self.address_list.append(person)
+            
         
-        while True:
-            buffer = file.readline()
-            if not buffer:
-                break
-            
-            # 김휴먼,010-1234-1234,서울시 영등포구
-            name = buffer.split(',')[0]
-            phone = buffer.split(',')[1]
-            # rstrip(문자) : 지정한 문자를 문자열의 오른쪽에서 제거
-            # 서울시 영등포구\n  --> '\n' 제거 
-            addr = buffer.split(',')[2].rstrip('\n')
-            
-            # print('이름 : {}'.format(name))
-            # print('전화번호 : {}'.format(phone))
-            # print('주소 : {}'.format(addr))
-            
-            person = Person(name, phone, addr)
-            
-            # csv 파일의 연락처 목록을 address_list 리스트로 가져옴
-            self.address_list.append(person)
             
         print('AddresssBook.csv 파일을 읽어왔습니다.')
         file.close()
