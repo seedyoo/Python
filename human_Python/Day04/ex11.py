@@ -10,3 +10,28 @@
     
 '''
 
+# 숫자를 0 으로 나눈 경우
+
+print('X / Y')
+X = int( input('X : ') )
+Y = int( input('Y : ') )
+# result = X / Y            # 예외 발생
+
+'''
+    try:
+        예외 발생 가능 문장
+    except 예외 클래스:
+        예외 처리 문장
+    else:
+        예외 미발생 시 문장
+    finally:
+        예외 발생과 무관하게 실행할 문장
+'''
+
+
+try:
+    result = X / Y
+except ZeroDivisionError:
+    print('0으로 나눌 수 없습니다')
+else:
+    print(result)
