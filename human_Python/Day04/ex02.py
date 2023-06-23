@@ -69,3 +69,7 @@ print('전화번호 : ',person2.tel)
 
 person3 = Person('박휴먼', 30, '010-0000-0000')
 person3.show_info()
+
+
+p = Person(name='aaa')
+p.show_info()
