@@ -226,7 +226,8 @@ class AddressBook:
         for i, person in enumerate(self.address_list):
             
             if name == self.address_list[i].name:
-                print( person.info() )
+                person.info()
+                
                 
                 
                 
