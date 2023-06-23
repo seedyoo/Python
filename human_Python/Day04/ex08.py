@@ -88,7 +88,6 @@ class DroneRobot(Robot):
 '''
 
 class CleanRobot(Robot):
-    
     max_bin = 50
     
     def __init__(self,name, power, battery, bin=0):
@@ -102,7 +101,6 @@ class CleanRobot(Robot):
         if( self.bin >= CleanRobot.max_bin ):
             print('더 이상 청소할 없습니다. 먼지통을 비워주세요...')
             return
-        
         self.bin += 1           # 먼지 흡입
         
     def mapping(self):
