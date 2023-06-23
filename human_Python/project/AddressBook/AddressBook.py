@@ -47,15 +47,19 @@ class AddressBook:
     
     # 파일 생성
     def file_generator(self):
-        file = open('AddressBook.csv', 'wt', encoding='UTF-8')
         
-        # address_list 를 반복하여, 모든 연락처 정보를 .csv 파일에 출력
-        for person in self.address_list:
-            file.write('{},{},{}\n'.format(person.name, person.phone, person.addr))
-        
-        print('AddressBook.csv 파일이 저장되었습니다')
-        
-        file.close()
+        try:
+            file = open('AddressBook.csv', 'wt', encoding='UTF-8')
+        except:
+            print('AddressBook.csv 파일을 생성할 수 없습니다.')
+        else:
+            # address_list 를 반복하여, 모든 연락처 정보를 .csv 파일에 출력
+            for person in self.address_list:
+                file.write('{},{},{}\n'.format(person.name, person.phone, person.addr))
+            
+            print('AddressBook.csv 파일이 저장되었습니다')
+            
+            file.close()
         
     # 파일 읽기
     def file_reader(self):
