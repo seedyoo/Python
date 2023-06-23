@@ -68,6 +68,7 @@ class AddressBook:
             # 예외 발생 시, 예외 처리 코드
             print('AddressBook.csv 파일이 없습니다')
             self.file_generator()
+            self.file_reader()
         else:
             # 예외 미발생 시, 실행할 코드
             while True:
@@ -91,10 +92,10 @@ class AddressBook:
                 # csv 파일의 연락처 목록을 address_list 리스트로 가져옴
                 self.address_list.append(person)
             
+            print('AddresssBook.csv 파일을 읽어왔습니다.')
+            file.close()
         
             
-        print('AddresssBook.csv 파일을 읽어왔습니다.')
-        file.close()
         
         
     # 메뉴
@@ -136,6 +137,8 @@ class AddressBook:
         name = input('등록할 이름 : ')
         phone = input('등록할 전화번호 : ')
         addr = input('등록할 주소 : ')
+        
+        # 유효성 검사
         
         # Person 객체 생성 및 name, phone, addr 속성 초기화
         person = Person(name, phone, addr)
