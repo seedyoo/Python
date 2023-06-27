@@ -1,0 +1,6159 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2023년 06월 27일 (화)요일 06:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>전국 육상 중기예보 - 2023년 06월 27일 (화)요일 06:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
+<description>
+	<header>
+		<title>전국 육상중기예보</title>
+		<tm>202306270600</tm>
+		<wf><![CDATA[○ (강수) 30일(금)은 전국, 7월 1일(토)~3일(월)은 남부지방과 제주도에 비가 오겠습니다. <br />○ (기온) 이번 예보기간 아침 기온은 20~24도, 낮 기온은 26~32도로 평년(최저기온 20~22도, 최고기온 26~30도)과 비슷하거나 조금 높겠습니다.<br />○ (주말전망) 7월 1일(토)은 전국이 대체로 흐리고 남부지방과 제주도에 비가 오겠고, 2일(일)은 전국이 가끔 구름많겠으나, 제주도는 흐리고 비가 오겠습니다. <br />              아침 기온은 20~23도, 낮 기온은 27~32도가 되겠습니다. <br /><br />* 당분간 정체전선과 정체전선상에서 발달하는 저기압 영향으로 비가 자주 내리겠으며, 우리나라 주변 기압계 변화에 따라 예보가 변경될 가능성이 있겠으니 <br />  앞으로 발표되는 예보와 기상정보를 참고하기 바랍니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>춘천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>원주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>강릉</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>대전</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>세종</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>홍성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>청주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>충주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>영동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>목포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>여수</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>순천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>나주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>전주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>군산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>정읍</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>남원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>고창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>무주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>부산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>울산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>진주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>거창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>통영</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>대구</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>32</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>안동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>포항</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>25</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>25</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>경주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>울진</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>울릉도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>제주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>25</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>25</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>30</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>서귀포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-06-30 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>26</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-01 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-02 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-03 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2023-07-04 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>28</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-05 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>24</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-06 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2023-07-07 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability></reliability>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>	
